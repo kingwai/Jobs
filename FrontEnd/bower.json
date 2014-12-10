@@ -1,0 +1,11 @@
+{
+	"name": "Jobillion",
+	"version": "0.0.1",
+	"dependencies": {
+		"angular": "latest",
+		"bootstrap": "latest"
+	},
+	"devDependencies": {
+		"angular-mocks": "latest"
+	}
+}
